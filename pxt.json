@@ -1,5 +1,5 @@
 {
-    "name": "LED Naba",
+    "name": "Max7219 LED Name Display",
     "description": "",
     "dependencies": {
         "core": "*",
